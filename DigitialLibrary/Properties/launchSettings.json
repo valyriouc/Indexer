@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DigitialLibrary": {
+      "commandName": "Project",
+      "commandLineArgs": "-p C:\\Hackerspace\\Books"
+    }
+  }
+}
